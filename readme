@@ -1,1 +1,8 @@
-readme
+src\Common\BaseListLayer.js
+src\JsbReflection\CallbackManager.js
+
+
+frameworks\cocos2d-x
+frameworks\cocos2d-x\cocos\platform
+frameworks\cocos2d-x\cocos\platform\android
+frameworks\cocos2d-x\cocos\platform\android\java\src\org\cocos2dx\lib
