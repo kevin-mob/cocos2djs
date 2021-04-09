@@ -1,0 +1,35 @@
+
+
+# Ignore files built by AppCode
+.idea/
+.idea/workspace.xml
+workspace.xml
+
+# Ignore files build by xcode
+*.mode*v*
+*.pbxuser
+*.xcbkptlist
+*.xcworkspacedata
+*.xcuserstate
+*.xccheckout
+xcschememanagement.plist
+IDEWorkspaceChecks.plist
+.DS_Store
+._.*
+xcuserdata/
+DerivedData/
+UserInterfaceState.xcuserstate
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
+#CocoaPods
+Pods
+Pods/
+
+# Android
+project.properties
+*.iml
+frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/
+*.apk
